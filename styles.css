@@ -1,3 +1,11 @@
 * {
     background-color: #282828;
 }
+#main {
+    display: flex;
+    flex-wrap: wrap;
+}
+.grid {
+    flex-basis: 6.25%;
+    aspect-ratio: 1 / 1;
+}
