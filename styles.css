@@ -5,11 +5,7 @@
     display: flex;
     flex-wrap: wrap;
 }
-.grid {
+#main div {
     flex-basis: 6.25%;
     aspect-ratio: 1 / 1;
-}
-
-.grid:hover {
-    background: red;
 }
